@@ -4,7 +4,7 @@ I'm a Computing Science major with a passion for building impactful projects in 
 
 🌍 Based in Vancouver  
 
-🔭 Working as a **Machine Learning Intern** where I work with Multi-Agent Systems using Generative AI frameworks such as CrewAI, Langchain, Langraph
+🔭 Working as a **Machine Learning Intern** where I work with Multi-Agent Systems using CrewAI, Langchain, Langraph
 
 🌱 Learning about emerging technologies in **Generative AI** and exploring **JavaScript** frameworks such as **React** to deploy my AI Models
 
