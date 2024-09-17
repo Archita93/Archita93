@@ -6,7 +6,7 @@ I'm a Computing Science major with a passion for building impactful projects in 
 
 🔭 Working as a **Machine Learning Intern** where I work with Multi-Agent Systems using CrewAI, Langchain, Langraph
 
-🌱 Learning about emerging technologies in **Generative AI** and exploring **JavaScript** frameworks such as **React** to deploy my AI Models
+🌱 Learning about **Generative AI** and **JavaScript frameworks (React)** to deploy AI Models
 
 📫 Reach me at [srivastavaarchita2001@gmail.com](mailto:srivastavaarchita2001@gmail.com)  
 
