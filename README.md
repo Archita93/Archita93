@@ -1,19 +1,64 @@
-## Hi there 👋 My name is Archita Srivastava
+# Hi, I'm Archita Srivastava! 👋  
+🎓 Computing Science @ Simon Fraser University  
+🧠 AI & Machine Learning | 🎯 Data Science | 🩺 Health AI Research  
 
-I'm a Computing Science major with a passion for building impactful projects in the field of AI/ML
+---
 
-🌍 Based in Vancouver  
+## 💻 About Me
 
-🔭 Working as a **Machine Learning Intern** where I work with Multi-Agent Systems using CrewAI, Langchain, Langraph
+I'm an aspiring AI researcher and software developer passionate about building impactful solutions at the intersection of **technology and healthcare**. With experience across industry labs (RBC, Borealis AI, Vector Institute) and academic research (UBC, SFU), I've led and contributed to projects that use AI for **radiology**, **sleep disorders**, and **health equity**.
 
-📫 Reach me at [srivastavaarchita2001@gmail.com](mailto:srivastavaarchita2001@gmail.com)  
+I thrive in fast-paced environments, love working on multi-disciplinary teams, and continuously explore **GenAI**, **MLOps**, and **multi-modal learning**.
 
-😄 Pronouns: she/her
+---
 
-⚡ Fun fact: Love running, one of my goals is to run a Marathon
+## 🔬 Research & Work Highlights
 
-🧠 Career Goals: 
-  a) Learn about AI 
-  b) Pursue research which intersects Public Health and AI 
-  c) Explore Tech Consulting  
+- 💡 **Sleep Lab @ UBC**  
+  Predicting sleep apnea-related cognitive dysfunction using ML  
+  📄 First-author abstract submitted to SLEEP 2025 (Seattle)
+
+- 🧠 **RBC - GenAI Innovation Lab**  
+  Built an RAG pipeline for case classification → 📈 boosted accuracy by **80%**  
+  Migrated pipelines to **LangGraph** for scalability  
+
+- 🛍️ **RBC Amplify**  
+  Co-created *Aria by Avion*, an AI shopping companion for loyalty users  
+  → +20% engagement with LightFM + ChromaDB personalization
+
+- 🩻 **Borealis AI - Let’s Solve It**  
+  Trained image-to-text model using **BLIP** on 400k+ chest X-rays  
+  Achieved 99% reduction in report time; 86% BERT Precision
+
+- ⚖️ **Vector Institute**  
+  Predicted ICU readmissions using Clinical-BERT & XGBoost  
+  Analyzed fairness across 4 racial groups → Presented at **CAHSPR 2024**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, C/C++, Java, HTML, CSS, R  
+**Libraries/Frameworks**: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy  
+**Tools**: Git, GitHub, MongoDB, ChromaDB, Tableau, Figma, Jupyter, VS Code
+
+---
+
+## 🌱 Current Goals
+
+- 🚀 Advance healthcare AI solutions in underserved populations  
+- 🔬 Contribute to academic research in **vision-language models** and **robotic surgery**  
+- 📍Explore opportunities at **FAANG**, **UK-based research labs**, or **Health AI startups**
+
+---
+
+## 📫 Let's Connect!
+
+- 🧠 [Portfolio](https://archita93.github.io/portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/archita7/)
+- 📮 Email: asa410@sfu.ca
+
+---
+
+_“Strive not to be a success, but rather to be of value.” – Albert Einstein_
 
