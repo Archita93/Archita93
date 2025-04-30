@@ -1,10 +1,10 @@
 # Hi, I'm Archita Srivastava! 👋  
 🎓 Computing Science @ Simon Fraser University  
-🧠 AI & Machine Learning | 🎯 Data Science | 🩺 Health AI Research  
+AI & Machine Learning | Data Science | Health AI Research  
 
 ---
 
-## 💻 About Me
+## About Me
 
 I'm an aspiring AI researcher and software developer passionate about building impactful solutions at the intersection of **technology and healthcare**. With experience across industry labs (RBC, Borealis AI, Vector Institute) and academic research (UBC, SFU), I've led and contributed to projects that use AI for **radiology**, **sleep disorders**, and **health equity**.
 
@@ -12,7 +12,7 @@ I thrive in fast-paced environments, love working on multi-disciplinary teams, a
 
 ---
 
-## 🔬 Research & Work Highlights
+## Research & Work Highlights
 
 - 💡 **Sleep Lab @ UBC**  
   Predicting sleep apnea-related cognitive dysfunction using ML  
@@ -36,7 +36,7 @@ I thrive in fast-paced environments, love working on multi-disciplinary teams, a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**: Python, C/C++, Java, HTML, CSS, R  
 **Libraries/Frameworks**: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy  
@@ -44,15 +44,14 @@ I thrive in fast-paced environments, love working on multi-disciplinary teams, a
 
 ---
 
-## 🌱 Current Goals
+## Future Goals
 
-- 🚀 Advance healthcare AI solutions in underserved populations  
-- 🔬 Contribute to academic research in **vision-language models** and **robotic surgery**  
-- 📍Explore opportunities at **FAANG**, **UK-based research labs**, or **Health AI startups**
+- Contribute to academic research in **vision-language models** and **robotic surgery**  
+- Explore opportunities at **FAANG**, **UK-based research labs**, or **Health AI startups**
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 - 🧠 [Portfolio](https://archita93.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/archita7/)
