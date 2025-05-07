@@ -1,5 +1,6 @@
-# Hi, I'm Archita Srivastava! 👋  
+## Hi, I'm Archita Srivastava! 👋  
 Computing Science @ Simon Fraser University  
+
 ---
 
 ## About Me
