@@ -1,5 +1,5 @@
 Hi, I'm Archita Srivastava! 👋  
-Computing Science @ Simon Fraser University | Aspiring AI in Healthcare Researcher 
+Computing Science @ Simon Fraser University
 
 ## Tech Stack
 
